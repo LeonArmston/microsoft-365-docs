@@ -104,12 +104,14 @@ To access the report
 
 Filter the csv on **consumedService** = *Microsoft.Syntex*. The following columns include Microsoft Syntex transaction information:
 
-- meterName
-- meterCategory
-- meterSubCategory
-- ProductName
-- quantity
-- tags (site and library information)
+- MeterName
+- MeterCategory
+- MeterSubCategory
+- MeterName
+- UsageQuantity
+- Tags (site and library information)
+- ServiceName
+- ServiceTier
 
 ## Related topics
 
